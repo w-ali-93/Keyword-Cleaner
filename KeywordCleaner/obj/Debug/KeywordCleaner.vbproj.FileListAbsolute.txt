@@ -1,0 +1,14 @@
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\bin\Debug\KeywordCleaner.exe.config
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\bin\Debug\KeywordCleaner.exe.manifest
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\bin\Debug\KeywordCleaner.application
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\bin\Debug\KeywordCleaner.exe
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\bin\Debug\KeywordCleaner.pdb
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\bin\Debug\KeywordCleaner.xml
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.frmKC.resources
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.Resources.resources
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.vbproj.GenerateResource.Cache
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.exe.manifest
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.application
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.exe
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.xml
+C:\Users\snipe\documents\visual studio 2013\Projects\KeywordCleaner\KeywordCleaner\obj\Debug\KeywordCleaner.pdb
